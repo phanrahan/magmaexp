@@ -1,0 +1,24 @@
+{
+    ".deps_version": 2, 
+    "python3 add.py build/add": {
+        "__pycache__/arith.cpython-35.pyc": "output-7d36fa4e4327769c213a0fe0a1688425", 
+        "add.py": "input-c0ec8491e79b74f59e82495823ae4a6a", 
+        "arith.py": "input-d6d94d4d883bfcf33345c854c8d9bfb9", 
+        "build/add.pcf": "output-e2766a2301dfd77ed22082493ab6302e", 
+        "build/add.v": "output-c9868b2d7b2a3588cede0b5869a50dc7"
+    }, 
+    "python3 and.py build/and": {
+        "__pycache__/logic.cpython-35.pyc": "output-14bd6130bcad8a680478b8ce8a9b50e6", 
+        "and.py": "input-35d05bd54de0a43186c7dc499b131936", 
+        "build/and.pcf": "output-e2766a2301dfd77ed22082493ab6302e", 
+        "build/and.v": "output-0d8a7ae7680544f4060286d046968462", 
+        "logic.py": "input-70ecf44a47dc7260ac4b81a0bca8162c"
+    }, 
+    "python3 reduceand.py build/reduceand": {
+        "__pycache__/logic.cpython-35.pyc": "output-60bb6db37dccc480dab1744444cdd7ce", 
+        "build/reduceand.pcf": "output-9e43bda3a0c484ef203998e074564da1", 
+        "build/reduceand.v": "output-7112225794a744e06ca0d2cd026bf7e3", 
+        "logic.py": "input-70ecf44a47dc7260ac4b81a0bca8162c", 
+        "reduceand.py": "input-d2151998ac92b6f8c40f7e2d75b5ecf5"
+    }
+}
