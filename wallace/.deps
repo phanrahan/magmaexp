@@ -1,0 +1,10 @@
+{
+    ".deps_version": 2, 
+    "magma -b icestick main": {
+        "__pycache__/main.cpython-36.pyc": "output-bb11f219cae4258b0243524c8647a5e7", 
+        "build/main.pcf": "output-22802cd800c1e59bf43cf9fe2033c8bf", 
+        "build/main.v": "output-dfe34172a2fddefa7ba977846b4f6be8", 
+        "main.py": "input-e7b36ca2c6090f30c8e8971078346d08", 
+        "papers/DotNotation.doc": "input-889069a486e4404c98596a3714850eac"
+    }
+}
