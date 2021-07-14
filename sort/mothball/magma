@@ -1,0 +1,36 @@
+#!/usr/local/bin/python3
+import os, sys, getopt
+from magma import compile
+
+try:
+    opts, args = getopt.getopt(sys.argv[1:], 'b:')
+except:
+    print >> sys.stderr, 'usage: magma [-b board]'
+    sys.exit(1)
+
+name = os.path.basename(args[0])
+name = os.path.splitext(name)[0]
+
+board = None
+for o, a in opts:
+    if o == '-b':
+        board = a
+
+target = None
+mantle = None
+if board == 'icestick' or board == 'goboard' or board == 'hx8kboard':
+    target = 'ice40'
+    mantle = 'lattice'
+
+if target:
+    os.environ['MANTLE_TARGET'] = target
+if mantle:
+    os.environ['MANTLE'] = mantle
+
+# Add CWD to PYTHONPATH so Python can find the input file
+sys.path.append(os.getcwd())
+
+main = __import__(name).main
+mainv = os.path.join('build',name)
+
+compile(mainv, main, 'coreir')

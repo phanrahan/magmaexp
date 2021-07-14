@@ -1,0 +1,27 @@
+{
+    ".deps_version": 2, 
+    "magma -b icestick bitonic": {
+        "__pycache__/bitonic.cpython-36.pyc": "output-c86ccd4da93ca5e02877e50449f37d79", 
+        "bitonic.py": "input-0687074061d73a1bf0c55d3f7be4505c", 
+        "build/bitonic.pcf": "output-22802cd800c1e59bf43cf9fe2033c8bf", 
+        "build/bitonic.v": "output-c6d7c7436ef55022b026176e8b21ca93"
+    }, 
+    "magma -b icestick brick": {
+        "__pycache__/brick.cpython-36.pyc": "output-09e7902822c4ac1219577ba52f10196f", 
+        "brick.py": "input-a24eb4e422fa7a4207df4e37f28074a8", 
+        "build/brick.pcf": "output-22802cd800c1e59bf43cf9fe2033c8bf", 
+        "build/brick.v": "output-59f5a4980981c7b4bdc9f0379132a8ea"
+    }, 
+    "magma -b icestick evenodd": {
+        "__pycache__/evenodd.cpython-36.pyc": "output-393d38e3e34b83f589833cc84e29267f", 
+        "build/evenodd.pcf": "output-22802cd800c1e59bf43cf9fe2033c8bf", 
+        "build/evenodd.v": "output-057e559c919694df44ed47b2dad70032", 
+        "evenodd.py": "input-8def92b158fe064260b658f7285cf071"
+    }, 
+    "magma -b icestick sorter": {
+        "__pycache__/sorter.cpython-36.pyc": "output-054ef665c79ec8575760dfcda1fba728", 
+        "build/sorter.pcf": "output-22802cd800c1e59bf43cf9fe2033c8bf", 
+        "build/sorter.v": "output-c6d7c7436ef55022b026176e8b21ca93", 
+        "sorter.py": "input-0687074061d73a1bf0c55d3f7be4505c"
+    }
+}

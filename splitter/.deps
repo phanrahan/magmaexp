@@ -1,0 +1,21 @@
+{
+    ".deps_version": 2, 
+    "magma -b icestick identity": {
+        "__pycache__/identity.cpython-36.pyc": "output-578423cea45fd29fdf1be7a6e6edcc82", 
+        "build/identity.pcf": "output-22802cd800c1e59bf43cf9fe2033c8bf", 
+        "build/identity.v": "output-61dc6e18b06940569455c41c154598be", 
+        "identity.py": "input-f78dd91dada34a5691ac83ec9079718e"
+    }, 
+    "magma -b icestick reverse": {
+        "__pycache__/reverse.cpython-36.pyc": "output-e7f8f57b9a5ad22e7ff54ded0cac7dd2", 
+        "build/reverse.pcf": "output-22802cd800c1e59bf43cf9fe2033c8bf", 
+        "build/reverse.v": "output-edd2f25c829f86472ef0ec30c31cbca1", 
+        "reverse.py": "input-c35fe2d3b313e58f92117a3514920cc0"
+    }, 
+    "magma -b icestick splitter": {
+        "__pycache__/splitter.cpython-36.pyc": "output-cbda197857dd9030e5117a39bf07f645", 
+        "build/splitter.pcf": "output-d038a70c507c473744f3a911419ed290", 
+        "build/splitter.v": "output-f5db726e11205257ce4d74a93e34bb2c", 
+        "splitter.py": "input-3ff747fa657bb2305e92c5258da5c3bb"
+    }
+}

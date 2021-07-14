@@ -1,0 +1,9 @@
+{
+    ".deps_version": 2, 
+    "magma -b icestick main": {
+        "__pycache__/main.cpython-36.pyc": "output-8797d6c411949b2547d02ab271e36751", 
+        "build/main.pcf": "output-686653e37ebc8b77a7e432fc1e05798c", 
+        "build/main.v": "output-0a664407edfd890cdbcfdab718f7a369", 
+        "main.py": "input-005684caa74d5fdd8b1393174624a670"
+    }
+}

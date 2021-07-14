@@ -1,0 +1,8 @@
+{
+    ".deps_version": 2, 
+    "magma -b icestick scan": {
+        "__pycache__/scan.cpython-36.pyc": "output-77d1c733eda5ad73c0b22dddc7f3f85b", 
+        "build/scan.v": "output-16238bc1a808d758e383c6f34b513e66", 
+        "scan.py": "input-0b516192e6de60a0f4b64deaa7579416"
+    }
+}

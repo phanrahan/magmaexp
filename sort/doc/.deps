@@ -1,0 +1,13 @@
+{
+    ".deps_version": 2, 
+    "magma -b icestick sort": {
+        "__pycache__/best.cpython-36.pyc": "output-f796d783866f550cca5afb62195899f9", 
+        "__pycache__/sort.cpython-36.pyc": "output-8c84230dde3bbdc85ee3d76de1adb876", 
+        "best.py": "input-c0ef795c3167c59f6edcc44129e005ba", 
+        "build/sort.pcf": "output-22802cd800c1e59bf43cf9fe2033c8bf", 
+        "build/sort.v": "output-3863bbec2ded4c7bdd8fee7ae55b5fbb", 
+        "doc/Chapter 27.pdf": "input-7f1c6949e085af6cb186dee2b5852909", 
+        "doc/batcher.sort.pdf": "input-e0e34ef448e8f3301f9a877ed19a6bcf", 
+        "sort.py": "input-d9816be2d3ad241759ae10a48b94ac8a"
+    }
+}
